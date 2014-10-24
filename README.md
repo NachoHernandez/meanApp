@@ -1,0 +1,1 @@
+Aplicación MEAN hecha con MongoDB, Express, AngularJS y Node.js
