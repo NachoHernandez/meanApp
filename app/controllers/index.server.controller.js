@@ -1,6 +1,8 @@
 exports.render = function(req, res) {
 
-    res.send('Hola Mundo');
+    res.render('index', {
+        title: 'Hola Mundo'
+    });
 };
 
 
